@@ -9,6 +9,29 @@
 
 </head>
 <body>
-    <div class="w-screen h-screen bg-black text-white">hello< thumbtack/div>
+    <div class="w-screen h-screen bg-black text-white flex content-center justify-between">
+        <span class="m-4 bg-cyan-800 rounded">
+            clip board content
+        </span>
+        <span class="m-4 bg-cyan-800 rounded">
+            clip board content
+        </span>
+        <span class="m-4 bg-cyan-800 rounded">
+            clip board content
+        </span>
+        <span class="m-4 bg-cyan-800 rounded">
+            clip board content
+        </span>
+        <span class="m-4 bg-cyan-800 rounded">
+            clip board content
+        </span>
+        <span class="m-4 bg-cyan-800 rounded">
+            clip board content
+        </span>
+        <span class="m-4 bg-cyan-800 rounded">
+            clip board content
+        </span>
+
+    </div>
 </body>
 </html>
