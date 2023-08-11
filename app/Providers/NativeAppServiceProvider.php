@@ -26,6 +26,5 @@ class NativeAppServiceProvider
             ->rememberState()
             ->showDevTools(false);
 
-
     }
 }
